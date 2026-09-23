@@ -12,7 +12,7 @@ University of the Cumberlands, PhDAI 733 (Python Application for Analytics in AI
 | Rashidah Carr | Introduction & Problem Framing, Setup and Imports, Github, Colab | Introduction, 1 |
 | Gino Varghese | Dataset Exploration & Preprocessing | 2, 3, 4 |
 | Jude Adenuga | Initial Model Development | 5, 6, 7 |
-| All Team | Ethics and fairness lead | 8 |
+| All Team | Ethics and fairness | 8 |
 | Pranathy Anumula | Team Collaboration Process, Report Assembly | 9 |
 | All Team | Next Steps | 10 |
 
