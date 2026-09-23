@@ -1,6 +1,6 @@
 # PhDAI 733 Group Project: Machine-Learning-Classification-of-Coronary-Artery-Disease
 
-Real-World AI-Driven Analytics Solution Using Python. 
+Real-World AI-Driven Analytics Solution Using Python.   
 University of the Cumberlands, PhDAI 733 (Python Application for Analytics in AI).
 
 **Part 1 deliverable:** Data Preprocessing and Initial Model Development
