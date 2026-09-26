@@ -36,15 +36,4 @@ Google Colab (File > Open notebook > GitHub, or upload).
 ```
 notebooks/   the Colab notebook (committed with outputs cleared)
 report/      the APA report (.docx)
-DECISIONS.md decisions with lasting effect and the reasoning behind them
-requirements.txt
 ```
-
-## Workflow
-
-- `main` always holds the last reviewed, fully executing notebook.
-- Work on your section in the shared Colab, then push to a branch named for it (`steps-1-3-eda`, `modeling`, `ethics`).
-- Commit at least once per working session with a descriptive message. Clear outputs before committing
-(Edit > Clear all outputs in Colab) so diffs stay readable; executed copies live in the team Drive folder.
-- Open a pull request into `main`; one other member reviews and confirms the notebook runs top to bottom in a fresh runtime.
-- Record any decision that later sections depend on in `DECISIONS.md`.
