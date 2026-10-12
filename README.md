@@ -9,7 +9,7 @@ University of the Cumberlands, PhDAI 733 (Python Application for Analytics in AI
 
 | Member | Tasks | Notebook sections |
 | --- | --- | --- |
-| Rashidah Carr | Problem Framing, Ethics and Fairness and Documentation| Introduction, 8, 10, Report |
+| Rashidah Carr | Problem Framing, Ethics and Fairness and Documentation| Introduction, 8, 10, Report, GitHub |
 | Gino Varghese | Dataset Exploration & Preprocessing | 1, 2, 3 |
 | Jude Adenuga | Initial Model Development | 4, 5, 6, 7 |
 | Pranathy Anumula | Team Collaboration Process | 9 |
