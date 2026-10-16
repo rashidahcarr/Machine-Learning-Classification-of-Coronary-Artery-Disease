@@ -8,7 +8,7 @@ University of the Cumberlands, PhDAI 733 (Python Application for Analytics in AI
 ## Team
 
 | Member  | Part 1 | Part 2 |
-| --- | --- | --- |
+| ----  | ---- | ---- |
 | Rashidah Carr | Problem Framing, Ethics and Fairness, APA Report, GitHub| Integration of sections, baseline and age-band checks, ethics, conclusion, APA report, GitHub |
 | Gino Varghese | Dataset Exploration & Preprocessing | Four-hospital dataset, tuning, threshold sweep |
 | Jude Adenuga | Initial Model Development | XGBoost, hyperparameter tuning |
