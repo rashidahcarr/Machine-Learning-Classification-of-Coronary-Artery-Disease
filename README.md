@@ -6,7 +6,7 @@ University of the Cumberlands, PhDAI 733 (Python Application for Analytics in AI
 | Part | Deliverable |
 | ----  | ---- |
 | Part 1 (Week 5) | Data Preprocessing and Initial Model Development |
-| Part 2 (Week 8) | Model Optimization, Real-World Impact | Ethical Evaluation |
+| Part 2 (Week 8) | Model Optimization, Baseline, Tuning |
 
 
 ## Team
@@ -14,7 +14,7 @@ University of the Cumberlands, PhDAI 733 (Python Application for Analytics in AI
 | Member  | Part 1 | Part 2 |
 | ----  | ---- | ---- |
 | Rashidah Carr | Problem Framing, Ethics and Fairness, APA Report, GitHub| Integration of sections, baseline & age-band checks, ethics, conclusion, APA report, GitHub|
-| Gino Varghese | Dataset Exploration & Preprocessing | Four-hospital dataset, tuning, threshold sweep|
+| Gino Varghese | Dataset Exploration & Preprocessing | Four-hospital dataset, threshold sweep|
 | Jude Adenuga | Initial Model Development | XGBoost, hyperparameter tuning|
 | Pranathy Anumula    | Team Collaboration Process | Real-World Impact|
 
